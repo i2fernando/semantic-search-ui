@@ -68,6 +68,4 @@ Editar
 
 ---
 
-📌 **Agora é só copiar e colar no seu README do GitHub!** Ele já está **formatado em Markdown**, então os títulos, listas e códigos vão ficar bem organizados.  
 
-🚀 **Se quiser personalizar algo, me avise!** 😃
